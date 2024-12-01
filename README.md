@@ -9,10 +9,6 @@ A simple and intuitive to-do list application built using **HTML**, **CSS**, and
 - **Delete Tasks:** Click the "×" button next to a task to remove it from the list.
 - **Persistent Storage:** Tasks are saved in local storage, ensuring they remain available even after refreshing the page.
 
-## Demo
-
-![To-Do App Screenshot](screenshot.png)
-
 ## How It Works
 
 1. **Adding Tasks:**
